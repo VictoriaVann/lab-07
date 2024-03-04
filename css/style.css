@@ -7,6 +7,11 @@ td {
   vertical-align: middle;
 }
 
+th {
+  font-weight: bold;
+  font-size: 18px;
+}
+
 body {
   background-image: url("../images/milkyway.jpeg");
 }
@@ -27,8 +32,8 @@ h1 {
 }
 
 .custom-size1 {
-  width: 600
-  height: 338
+  width: 600px;
+  height: 338px;
 }
 
 .heading {
@@ -39,3 +44,5 @@ h1 {
 h1, .custom-size1 {
   margin: 0; 
 }
+
+
