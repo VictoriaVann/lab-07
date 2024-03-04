@@ -17,6 +17,25 @@ body {
 }
 
 h1 {
-  font-family: "Comic Sans MS", cursive;
+  font-family: "Shadows Into Light", cursive;
   position: relative;
+  text-align: center;
+}
+
+#planets {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.custom-size1 {
+  width: 600
+  height: 338
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+}
+
+h1, .custom-size1 {
+  margin: 0; 
 }
