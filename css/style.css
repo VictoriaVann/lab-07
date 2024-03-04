@@ -1,5 +1,5 @@
 td, th {
-	border: 1px solid black;
+	border: none;
   }
 
 
@@ -8,13 +8,11 @@ body {
 }
 
 .custom-size {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
 
 h1 {
   font-family: "Comic Sans MS", cursive;
-  position: absolute;
-  left: 420px;
-  top:5px;
+  position: relative;
 }
