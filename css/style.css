@@ -2,6 +2,10 @@ td, th {
 	border: none;
   }
 
+td {
+  text-align: center;
+  vertical-align: middle;
+}
 
 body {
   background-image: url("../images/milkyway.jpeg");
