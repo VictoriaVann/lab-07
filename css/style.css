@@ -8,7 +8,13 @@ body {
 }
 
 .custom-size {
-  width: 300px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
 }
 
+h1 {
+  font-family: "Comic Sans MS", cursive;
+  position: absolute;
+  left: 420px;
+  top:5px;
+}
